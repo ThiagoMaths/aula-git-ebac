@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Thiago
+-Profissão: Técnico de Laboratório
+-Cidade: Rio de Janeiro 
+-O que faz nas horas vaga:Estudo e escuto música
+-Feedback sobre o curso Qualidade de Software: Curso muito e com desafios interessantes
+-Feedback sobre a plataforma de estudo da EBAC: Plataforma fácil de usar.
+
+Obrigado!!!
+
+
